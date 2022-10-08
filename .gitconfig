@@ -1,0 +1,27 @@
+[user]
+	email = admin@kaizen.wtf
+	name = kaizen
+[core]
+	editor = nano
+	whitespace = fix,-indent-with-non-tab,trailing-space,cr-at-eol
+[commit]
+	verbose = true
+[init]
+	defaultBranch = main
+[web]
+	browser = firefox
+[color]
+    ui = true
+[color "branch"]
+    current = yellow reverse
+    local = yello
+    remote = green
+[color "diff"]
+    meta = yellow bold
+    frag = magenta bold
+    old = red bold
+    new = green bold
+[color "status"]
+    added = yellow
+    changed = green
+    untracked = red

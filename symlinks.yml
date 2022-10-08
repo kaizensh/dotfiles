@@ -2,3 +2,6 @@ links:
   - link:
     path: ~/.zshrc
     origin: .zshrc
+  - link:
+    path: ~/.gitconfig
+    origin: gitconfig
